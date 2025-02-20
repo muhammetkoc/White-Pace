@@ -347,7 +347,7 @@ body{
     color: white;
 }
 .plan-two ul{
-    list-style-image: url(/images/Vector-1bg.png);
+    list-style-image: url(images/Vector-1bg.png);
 }
 .plan-two  .plan-content-price{
     color: #FFE492;
